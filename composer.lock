@@ -2901,32 +2901,6 @@
             "time": "2015-06-21 13:59:46"
         },
         {
-            "name": "superbiiz/inventory",
-            "version": "dev-dev",
-            "source": {
-                "type": "git",
-                "url": "git@git.newbiiz.com:inventory.git",
-                "reference": "37bbbe1b4fd1e624ea8d23ecfb768d447f916fed"
-            },
-            "type": "project",
-            "autoload": {
-                "psr-4": {
-                    "Superbiiz\\Inventory\\": "src/"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Bernie Yang",
-                    "email": "bernie.yang@newbiiz.com"
-                }
-            ],
-            "description": "inventory system",
-            "time": "2016-04-22 08:18:13"
-        },
-        {
             "name": "symfony/css-selector",
             "version": "v3.0.4",
             "source": {

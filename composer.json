@@ -17,12 +17,6 @@
         "superbiiz/inventory":"dev-dev@dev",
         "symfony/dom-crawler": "2.8.*|3.0.*"
     },
-    "repositories":[
-    {
-        "type":"vcs",
-        "url":"git@git.newbiiz.com:inventory.git"
-    }
-    ],
     "autoload": {
         "classmap": [
             "database"
